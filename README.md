@@ -35,3 +35,9 @@ Combining the solid foundation of Ubuntu LTS / KDE Neon with the cutting-edge **
 - **RAM:** 4 GB minimum (8 GB recommended)
 - **Storage:** 25 GB available disk space
 - **Graphics:** OpenGL 3.0 capable graphics card
+
+---
+
+## Project Roadmap
+
+BergOS is developed incrementally across four distinct editions. To see upcoming features, release milestones, and the long-term vision for the project, check out the [Official BergOS Roadmap](https://github.com/astulfonimatteo-hue/Berg_Linux/blob/main/ROADMAP.md).
