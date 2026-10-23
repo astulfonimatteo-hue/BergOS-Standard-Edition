@@ -1,5 +1,9 @@
 # BergOS Standard Edition
 
+<img width="1179" height="1172" alt="IMG_1345" src="https://github.com/user-attachments/assets/9d437b0b-54ba-402c-ba73-ce26f4421242" />
+
+_The main repository of the project is at this [link](https://github.com/astulfonimatteo-hue/Berg_Linux)_
+
 **BergOS Standard** is the flagship edition of the project, designed for modern computers and workstation hardware.
 
 Combining the solid foundation of Ubuntu LTS / KDE Neon with the cutting-edge **KDE Plasma** desktop environment, BergOS Standard delivers a powerful, fluid, and highly customizable user experience out of the box.
