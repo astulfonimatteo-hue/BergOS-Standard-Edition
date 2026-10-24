@@ -6,7 +6,7 @@ _The main repository of the project is at this [link](https://github.com/astulfo
 
 **BergOS Standard** is the flagship edition of the project, designed for modern computers and workstation hardware.
 
-Combining the solid foundation of Ubuntu LTS / KDE Neon with the cutting-edge **KDE Plasma** desktop environment, BergOS Standard delivers a powerful, fluid, and highly customizable user experience out of the box.
+Combining the solid foundation of Debian with the cutting-edge **KDE Plasma** desktop environment, BergOS Standard delivers a powerful, fluid, and highly customizable user experience out of the box.
 
 ---
 
@@ -23,7 +23,7 @@ Combining the solid foundation of Ubuntu LTS / KDE Neon with the cutting-edge **
 ## Technical Specifications
 
 - **Architecture:** 64-bit (`x86_64`)
-- **Base System:** KDE Neon / Ubuntu LTS
+- **Base System:** Debian 13 
 - **Desktop Environment:** KDE Plasma
 - **Installer:** Calamares
 - **Display Manager:** SDDM
